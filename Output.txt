@@ -1,0 +1,57 @@
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Remove Student
+5. Exit
+Enter your choice: 1
+Enter Name: Akash
+Enter Roll Number: 001
+Enter Grade: A+
+Student added successfully.
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Remove Student
+5. Exit
+Enter your choice: 2
+Enter Roll Number to Search: 002
+Student not found.
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Remove Student
+5. Exit
+Enter your choice: 3
+
+----- Student List -----
+Name : Akash
+Roll No : 1
+Grade : A+
+-------------------------
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Remove Student
+5. Exit
+Enter your choice: 4
+Enter Roll Number to Remove: 001
+Student removed successfully.
+
+===== STUDENT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Search Student
+3. Display All Students
+4. Remove Student
+5. Exit
+Enter your choice: 5
+Thank you for using Student Management System.
+
+=== Code Execution Successful ===
